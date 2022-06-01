@@ -18,4 +18,14 @@ Deliverable 4: Customize the Dashboard
 
 The interactive dashboard with the charts can be seen in the following link: https://monsaiaung.github.io/plotydiploy/
 
-![]()
+### Bar Chart
+
+![Bar](https://github.com/Monsaiaung/Belly_Button_Biodiversity/blob/1f9a850dc9c032c118459544e4ee39188784ab54/images/bar.png)
+
+### Bubble Chart
+
+![Bubble](https://github.com/Monsaiaung/Belly_Button_Biodiversity/blob/1f9a850dc9c032c118459544e4ee39188784ab54/images/Bubble.png)
+
+### Gauge Chart
+
+![Gauge](https://github.com/Monsaiaung/Belly_Button_Biodiversity/blob/1f9a850dc9c032c118459544e4ee39188784ab54/images/Gauge.png)
